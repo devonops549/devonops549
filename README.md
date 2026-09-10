@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Devon (@devonops549)
 
-<!--
-**devonops549/devonops549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems programmer based in Taipei. Mostly tinkering with low-level plumbing, memory safety, and browser runtimes.
 
-Here are some ideas to get you started:
+#### What I'm into
+- Writing CLI tools, network utilities, and small runtimes in **Rust** and **C**
+- Pushing systems code into browser runtimes via **WebAssembly**
+- Linux internals, tracing, and kernel plumbing
+- Keeping build pipelines fast and reproducible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Languages:** Rust, C, POSIX Shell, minimal Go
+- **Systems:** Linux (Arch/Debian), eBPF, perf, gdb, valgrind
+- **Tools:** Git, Neovim, Cargo, Make, Docker, wasm-bindgen
+
+#### Find me
+- Email: devonops549@proton.me
+- Matrix: @devon:matrix.org
+- Lurking around local Rust Taipei meetups
